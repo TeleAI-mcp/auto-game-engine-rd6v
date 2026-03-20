@@ -1,2 +1,3 @@
-# auto-game-engine-rd6v
+# Auto Game Engine Rd6V
+
 A repository to test GitHub automation for issue management.
